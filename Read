@@ -1,0 +1,5 @@
+n this Spring Boot tutorial, you will learn how to use IntelliJ IDEA for developing a Java web application based on Spring framework in which you will learn to implement the User module with CRUD operations (Create, Retrieve, Update & Delete).
+
+Technologies: Spring Boot Web, Spring Data JPA & Hibernate, MySQL Database, Thymeleaf, HTML5 & Bootstrap, JUnit 5 & AssertJ, Spring Data JPA Test.
+
+Software programs: Java Development Kit (OpenJDK), IntelliJ IDEA Ultimate, MySQL Community Server, MySQL Workbench
